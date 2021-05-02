@@ -3,13 +3,13 @@
 <br />
 <p align="center">
   <a href="https://emdplugins.com/plugins/employee-directory-wordpress-plugin/">
-    <img src="github/empdir-logo-250x150.gif" alt="Logo">
+    <img src="github/employee-directory-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Employee Directory</h3>
 
   <p align="center">
-    The best WordPress employee directory plugin. Create beautiful staff profiles. Allow people find each other faster and bring everyone together!
+    The WordPress employee directory plugin. Create beautiful staff profiles. Allow people find each other faster and bring everyone together!
     <br />
     <br />
      <a href="https://github.com/emarket-design/employee-directory/issues">Report Bug</a>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Employee Directory Screen Shot](github/)
+![Employee Directory Screen Shot](github/employee_directory_pro_540.png)
 
 
 <ul>
