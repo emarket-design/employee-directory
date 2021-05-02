@@ -1,0 +1,972 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-04-12T12:50:14-04:00\n"
+"POT-Creation-Date: 2021-04-12T12:50:14-04:00\n"
+
+#: employee-directory/employee-directory.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: employee-directory/employee-directory.php:244
+msgid "EDirectory"
+msgstr ""
+
+#: employee-directory/employee-directory.php:248
+msgid "Getting Started"
+msgstr ""
+
+#: employee-directory/employee-directory.php:249
+msgid "Glossary"
+msgstr ""
+
+#: employee-directory/employee-directory.php:253
+msgid "Settings"
+msgstr ""
+
+#: employee-directory/employee-directory.php:257
+msgid "Forms"
+msgstr ""
+
+#: employee-directory/employee-directory.php:261
+#: employee-directory/employee-directory.php:323
+msgid "Custom Fields"
+msgstr ""
+
+#: employee-directory/employee-directory.php:265
+msgid "Plugins"
+msgstr ""
+
+#: employee-directory/employee-directory.php:269
+msgid "Support"
+msgstr ""
+
+#: employee-directory/employee-directory.php:288
+msgid "Licenses"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:177
+msgid "Welcome to Employee Directory Community %s"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:181
+msgid "Easy-to-use and maintain employee directory solution for your business"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:183
+msgid "Upgrade Now"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:184
+msgid "Visit Pro Demo Site"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:187
+msgid "Release Notes"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:188
+msgid "Resources"
+msgstr ""
+
+#: employee-directory/includes/admin/getting-started.php:189
+msgid "Features"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:21
+msgid "Employee directory WordPress plugin provides an easy to use and maintain solution for any organization needing a centralized company directory."
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:22
+msgid "The below are the definitions of entities, attributes, and terms included in Employee Directory."
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:26
+msgid "Employees"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:29
+msgid "Employees are staff members working for your organization."
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:29
+msgid "Attributes"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:31
+msgid "Full Name"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:32
+msgid " Full Name is a required field. Full Name is filterable in the admin area. Full Name does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:35
+msgid "Bio"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:36
+msgid " Bio does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:39
+msgid "Photo"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:40
+msgid "Photo of the employee. 250x250 is the preferred size. Photo does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:43
+msgid "Featured"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:44
+msgid "Sets employee as featured which can be used to select employees in available views using Visual Shortcode Builder and Featured employee widget. Featured does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:47
+msgid "Employee No"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:48
+msgid "The unique identifier for an employee Employee No is a required field. Being a unique identifier, it uniquely distinguishes each instance of Employee entity. Employee No is filterable in the admin area. Employee No does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:51
+msgid "Hire Date"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:52
+msgid "Date the employee is hired Hire Date is filterable in the admin area. Hire Date does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:55
+msgid "Birthday"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:56
+msgid " Birthday is filterable in the admin area. Birthday does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:59
+msgid "Mailing Address"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:60
+msgid "Primary mailing address of an employee Mailing Address does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:63
+msgid "Phone"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:64
+msgid " Phone is filterable in the admin area. Phone does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:67
+msgid "Extension"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:68
+msgid " Extension is filterable in the admin area. Extension does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:71
+msgid "Mobile"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:72
+msgid " Mobile is filterable in the admin area. Mobile does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:75
+msgid "Email"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:76
+msgid " Email is filterable in the admin area. Email does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:79
+msgid "Facebook"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:80
+msgid " Facebook does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:83
+msgid "Google+"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:84
+msgid " Google+ does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:87
+msgid "Twitter"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:88
+msgid " Twitter does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:91
+msgid "Linkedin"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:92
+msgid " Linkedin does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:95
+msgid "Github"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:96
+msgid " Github is filterable in the admin area. Github does not have a default value. "
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:97
+msgid "Taxonomies"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:99
+msgid "Department"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:101
+msgid " Department accepts multiple values like tags"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:101
+msgid "Department does not have a default value"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:101
+msgid "There are no preset values for <b>Department.</b>"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:105
+msgid "Job Title"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid " Job Title accepts multiple values like tags"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Job Title does not have a default value"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "The following are the preset values for <b>Job Title:</b>"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Product Manager"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Sales Manager"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Agent"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Contractor"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Analyst"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Developer"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "Director"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "CEO"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "President"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "CFO"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:107
+msgid "HR Manager"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:111
+msgid "Gender"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid " Gender accepts multiple values like tags"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid "Gender does not have a default value"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid "The following are the preset values for <b>Gender:</b>"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid "Male"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid "Female"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:113
+msgid "Other"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:117
+msgid "Marital Status"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:119
+msgid " Marital Status accepts multiple values like tags"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:119
+msgid "Marital Status does not have a default value"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:119
+msgid "The following are the preset values for <b>Marital Status:</b>"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:119
+msgid "Single"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:119
+msgid "Married"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:123
+msgid "Employment Type"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:125
+msgid " Employment Type accepts multiple values like tags"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:125
+msgid "Employment Type does not have a default value"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:125
+msgid "The following are the preset values for <b>Employment Type:</b>"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:125
+msgid "Full Time"
+msgstr ""
+
+#: employee-directory/includes/admin/glossary.php:125
+msgid "Part Time"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:387
+msgid "Employee Search"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:400
+msgid "Photo of the employee. 250x250 is the preferred size."
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:413
+msgid "Sets employee as featured which can be used to select employees in available views using Visual Shortcode Builder and Featured employee widget."
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:427
+msgid "The unique identifier for an employee"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:440
+msgid "Date the employee is hired"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:469
+msgid "Primary mailing address of an employee"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:630
+msgid "Departments"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:643
+msgid "Job Titles"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:702
+msgid "Genders"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:729
+msgid "Marital Statuses"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:752
+msgid "Employment Types"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:823
+msgid "New To Employee Directory? Review the documentation!"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:823
+#: employee-directory/includes/class-install-deactivate.php:835
+msgid "&#187;"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:823
+#: employee-directory/includes/class-install-deactivate.php:835
+msgid "Dismiss"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:835
+msgid "Checkout the Best Employee Directory Plugin for WordPress!"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:841
+msgid "Welcome to Employee Directory"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:842
+msgid "Setup Employee Directory Pages"
+msgstr ""
+
+#: employee-directory/includes/class-install-deactivate.php:842
+msgid "Skip setup"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee-widgets.php:39
+msgid "Recent Employees"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee-widgets.php:39
+#: employee-directory/includes/entities/class-emd-employee-widgets.php:102
+msgid "The most recent employees"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee-widgets.php:102
+msgid "Featured Employees"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:101
+msgid "Featured Image"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:283
+#: employee-directory/includes/entities/class-emd-employee.php:626
+msgid "Employee"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:284
+msgid "Add New"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:285
+msgid "Add New Employee"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:286
+msgid "Edit Employee"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:287
+msgid "New Employee"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:288
+msgid "All Employees"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:289
+msgid "View Employee"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:290
+msgid "Search Employees"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:291
+msgid "No Employees Found"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:292
+msgid "No Employees Found In Trash"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:348
+msgid "Search Employment Types"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:349
+msgid "Popular Employment Types"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:350
+#: employee-directory/includes/entities/class-emd-employee.php:401
+#: employee-directory/includes/entities/class-emd-employee.php:452
+#: employee-directory/includes/entities/class-emd-employee.php:503
+#: employee-directory/includes/entities/class-emd-employee.php:554
+msgid "All"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:353
+msgid "Edit Employment Type"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:354
+msgid "Update Employment Type"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:355
+msgid "Add New Employment Type"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:356
+msgid "Add New Employment Type Name"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:357
+msgid "Seperate Employment Types with commas"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:358
+msgid "Add or Remove Employment Types"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:359
+msgid "Choose from the most used Employment Types"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:399
+msgid "Search Marital Statuses"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:400
+msgid "Popular Marital Statuses"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:404
+msgid "Edit Marital Status"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:405
+msgid "Update Marital Status"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:406
+msgid "Add New Marital Status"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:407
+msgid "Add New Marital Status Name"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:408
+msgid "Seperate Marital Statuses with commas"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:409
+msgid "Add or Remove Marital Statuses"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:410
+msgid "Choose from the most used Marital Statuses"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:450
+msgid "Search Job Titles"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:451
+msgid "Popular Job Titles"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:455
+msgid "Edit Job Title"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:456
+msgid "Update Job Title"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:457
+msgid "Add New Job Title"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:458
+msgid "Add New Job Title Name"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:459
+msgid "Seperate Job Titles with commas"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:460
+msgid "Add or Remove Job Titles"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:461
+msgid "Choose from the most used Job Titles"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:501
+msgid "Search Departments"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:502
+msgid "Popular Departments"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:506
+msgid "Edit Department"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:507
+msgid "Update Department"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:508
+msgid "Add New Department"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:509
+msgid "Add New Department Name"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:510
+msgid "Seperate Departments with commas"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:511
+msgid "Add or Remove Departments"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:512
+msgid "Choose from the most used Departments"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:552
+msgid "Search Genders"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:553
+msgid "Popular Genders"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:557
+msgid "Edit Gender"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:558
+msgid "Update Gender"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:559
+msgid "Add New Gender"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:560
+msgid "Add New Gender Name"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:561
+msgid "Seperate Genders with commas"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:562
+msgid "Add or Remove Genders"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:563
+msgid "Choose from the most used Genders"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:631
+msgid "Employee Info"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:718
+msgid "CSV Import/Export"
+msgstr ""
+
+#: employee-directory/includes/entities/class-emd-employee.php:740
+msgid "Enter Full Name here"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:62
+msgid "Please help us improve Employee Directory"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:64
+msgid "Allow eMDPlugins to collect your usage of Employee Directory. This will help you to get a better, more compatible plugin in the future."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:65
+msgid "If you skip this, that's okay! Employee Directory will still work just fine."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:68
+msgid "Do not allow"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:69
+msgid "Allow"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:76
+msgid "Please confirm your email address below to start receiving emails from us."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:85
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:86
+msgid "Your Profile Overview"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:86
+msgid "Name and email address"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:87
+msgid "Your Site Overview"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:87
+msgid "Site URL, WP version and PHP info"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:88
+msgid "Newsletter"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:88
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:137
+msgid "Hi, I noticed you just crossed the %d %s milestone - that's awesome!"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:139
+msgid "Hi, I just noticed you have been using Employee Directory for about a week now - that's awesome!"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:141
+msgid "Give <b>Employee Directory</b> a <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> 5 star review <span style=\"color:red\" class=\"dashicons dashicons-heart\"></span> to help fellow WordPress users like YOU find it faster! <u>Your 5 star review</u> brings YOU a better FREE product and faster, motivated support when YOU need help."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:142
+msgid "Would you like to upgrade now to get more out of your %s?"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:148
+msgid "Yes, I want a better FREE product and faster support"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:150
+msgid "I already did - Thank you"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:151
+msgid "No, I don't want a better FREE product and faster support"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:152
+msgid "I want to upgrade"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:154
+msgid "Maybe later"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:173
+msgid "Docs"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:174
+msgid "Pro Version"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:211
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:212
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:213
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:214
+msgid "Cancel"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:215
+msgid "Please share the reason so we can improve"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:216
+msgid "Would you like to open a support ticket?"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:217
+msgid "Please enter your email address."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:220
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:221
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:222
+msgid "The plugin update did not work as expected"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:223
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:224
+#: employee-directory/includes/plugin-feedback-functions.php:231
+msgid "I found a better plugin"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:226
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:227
+msgid "The plugin is not working"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:228
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:229
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:230
+msgid "The plugin is great, but I need a specific feature that is not currently supported"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:240
+msgid "It's a temporary deactivation. I'm just debugging an issue"
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:242
+msgid "No private information is sent during your submission. Thank you very much for your help improving our plugin."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:262
+msgid "Please share the plugin name."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:266
+msgid "Please share the feature that you were looking for so that we can develop it in the future releases."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:270
+msgid "We are sorry to hear that. Please share your previous version number before update, new updated version number and detailed description of what happened."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:274
+msgid "We are sorry to hear that. Please share the detailed description of what happened."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:278
+msgid "Please share what didn't work so we can fix it in the future releases."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:282
+msgid "Please share what you were looking for."
+msgstr ""
+
+#: employee-directory/includes/plugin-feedback-functions.php:286
+msgid "Please share what you expected."
+msgstr ""
+
+#: employee-directory/includes/scripts.php:74
+msgid "Please enter a unique value."
+msgstr ""
+
+#: employee-directory/includes/scripts.php:75
+msgid "required"
+msgstr ""
+
+#: employee-directory/includes/scripts.php:92
+msgid "Taxonomy"
+msgstr ""
+
+#: employee-directory/includes/scripts.php:105
+#: employee-directory/includes/scripts.php:110
+msgid "Relationship"
+msgstr ""
+
+#: employee-directory/includes/scripts.php:306
+#: employee-directory/includes/scripts.php:308
+#: employee-directory/includes/scripts.php:315
+#: employee-directory/includes/scripts.php:317
+msgid "Previous"
+msgstr ""
+
+#: employee-directory/includes/scripts.php:306
+#: employee-directory/includes/scripts.php:310
+#: employee-directory/includes/scripts.php:315
+#: employee-directory/includes/scripts.php:319
+msgid "Next"
+msgstr ""
+
+#: employee-directory/layouts/single-emd-employee.php:9
+msgid "Last modified"
+msgstr ""
+
+#: employee-directory/layouts/single-emd-employee.php:9
+msgid "by"
+msgstr ""
+
+#: employee-directory/layouts/single-emd-employee.php:9
+msgid "ago"
+msgstr ""
+
+#: employee-directory/layouts/single-emd-employee.php:118
+msgid "Details"
+msgstr ""
